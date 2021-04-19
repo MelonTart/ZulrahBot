@@ -1,2 +1,4 @@
-The Zulrahbot folder is a java project that must be run using an client in order to access in-game variables and locations. On the other hand in contrast SpookyZulrah runs with need to access ingame variables but instead takes screenshots and analyzes them to glean important information such as location and health. By avoiding the use of a traditional client the bot was able to remain undetected almost 10 times longer than with a client and could be run without stop again in
-contrast to using a client.
+The Zulrahbot folder is a java project that must be run using an client in order to access in-game variables and locations.
+On the other hand in contrast SpookyZulrah runs with need to access ingame variables but instead takes screenshots and analyzes
+them to glean important information such as location and health. By avoiding the use of a traditional client the bot was able 
+to remain undetected almost 10 times longer than with a client and could be run without stop again in contrast to using a client.
